@@ -5,5 +5,4 @@ Este es un repositorio de prueba
 Ajuste generación conflicto repositorio local 
 Ajuste generación de conflicto repositorio remota 
 
-
-
+Linea rama develop
